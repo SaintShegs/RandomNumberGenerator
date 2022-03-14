@@ -1,0 +1,14 @@
+body{
+    background-color: yellow;
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    background-color: brown;
+    width: 40%;
+    border-radius: 10px;
+}
+.HEADING,.output{
+    font-size: 3rem;
+}
